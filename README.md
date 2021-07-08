@@ -26,7 +26,7 @@
 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-FFFFFF?style=flat&logo=eclipseide&logoColor=2C2255)
 ![NetBeans](https://img.shields.io/badge/-Netbeans-222222?style=flat&logo=apachenetbeanside&logoColor=1B6AC6)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-222222?style=flat&logo=apachetomcat&logoColor=F8DC75)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![Svn](https://img.shields.io/badge/-Svn-222222?style=flat&logo=subversion&logoColor=809CC9)
