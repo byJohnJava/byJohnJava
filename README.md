@@ -2,7 +2,6 @@
 
 - :mortar_board: Student of multiplatform systems development at Fatec Osasco University
 - :interrobang: Knowledge seeker and curious
-- :man_technologist: Passionate about learning new technologies
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eojohnaraujo)
