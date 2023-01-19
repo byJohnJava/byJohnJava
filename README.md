@@ -15,10 +15,10 @@
 ##### Languages and Frameworks I have used
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat&logo=MySQL)
