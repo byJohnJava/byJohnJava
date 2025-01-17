@@ -1,6 +1,6 @@
 ##### Hi, I’m João Araujo:
 
-- :mortar_board: Student of multiplatform systems development at Fatec Osasco University
+- :mortar_board: Student of multiplatform systems development at UniCesumar
 - :interrobang: Knowledge seeker and curious
 - :mailbox: You can reach me with the links below
 
