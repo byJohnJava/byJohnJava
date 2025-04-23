@@ -1,6 +1,6 @@
 ##### Hi, I’m João Araujo:
 
-- :mortar_board: Student of multiplatform systems development at UniCesumar
+- :mortar_board: Student of Systems Analysis at UniCesumar
 - :interrobang: Knowledge seeker and curious
 - :mailbox: You can reach me with the links below
 
